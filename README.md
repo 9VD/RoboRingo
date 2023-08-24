@@ -1,5 +1,3 @@
----
-
 # RoboRingo: A Beatles Themed Music Discord Bot 🪲
 
 ## Features 🌟
@@ -48,5 +46,3 @@
 ## Contribution 🤝
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change. Ensure to update tests as appropriate.
-
----
