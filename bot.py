@@ -4,7 +4,7 @@ import random
 from discord.ext import commands
 from youtube_dl import YoutubeDL
 
-TOKEN = "MTEzNzgwOTE1MzMzNTc1NDc5Mg.GkK968.GLxGr9eJA4ThD4kJ8J9MNv64IYgaFc30EABEYc"
+TOKEN = #######
 intents = discord.Intents.all()  # Intents to work with members, messages, etc.
 YOUTUBE_API_KEY = 'AIzaSyCjTmqTxRFfaoadqJySQ0C3HKizVndZrIU'
 YOUTUBE_SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search'
